@@ -1,0 +1,9 @@
+@font-face {
+    font-family:minecraftimport;
+    src: url("minecraft.woff");
+}
+
+#main
+{
+    font-family:minecraftimport;
+}
